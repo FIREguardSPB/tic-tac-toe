@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90fc8a2e-1947-4f3c-a2fe-8a808a6feca7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/autoGo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AntonImg.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/KsuImg.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/WinnerBoard.jsx" afterDir="false" />
+    <list default="true" id="90fc8a2e-1947-4f3c-a2fe-8a808a6feca7" name="Changes" comment="package.json">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Board.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Board.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Board.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Game.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Game.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Game.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Square.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Square.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Square.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +49,33 @@
       <updated>1637350901384</updated>
       <workItem from="1637350902725" duration="22185000" />
     </task>
+    <task id="LOCAL-00001" summary="package.json">
+      <created>1637374148672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637374148672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="package.json" />
   </component>
 </project>
