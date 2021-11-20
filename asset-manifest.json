@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tic-tac-toe-for-ksu/static/css/main.afd7172b.chunk.css",
-    "main.js": "/tic-tac-toe-for-ksu/static/js/main.8e2fe7b3.chunk.js",
-    "main.js.map": "/tic-tac-toe-for-ksu/static/js/main.8e2fe7b3.chunk.js.map",
-    "runtime-main.js": "/tic-tac-toe-for-ksu/static/js/runtime-main.d83a8b2f.js",
-    "runtime-main.js.map": "/tic-tac-toe-for-ksu/static/js/runtime-main.d83a8b2f.js.map",
-    "static/js/2.5217d960.chunk.js": "/tic-tac-toe-for-ksu/static/js/2.5217d960.chunk.js",
-    "static/js/2.5217d960.chunk.js.map": "/tic-tac-toe-for-ksu/static/js/2.5217d960.chunk.js.map",
-    "index.html": "/tic-tac-toe-for-ksu/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/tic-tac-toe-for-ksu/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.5217d960.chunk.js.LICENSE.txt": "/tic-tac-toe-for-ksu/static/js/2.5217d960.chunk.js.LICENSE.txt",
-    "static/media/anton.39764d1b.jpg": "/tic-tac-toe-for-ksu/static/media/anton.39764d1b.jpg",
-    "static/media/ksu.c9a4db34.jpg": "/tic-tac-toe-for-ksu/static/media/ksu.c9a4db34.jpg",
-    "static/media/lols_background.ee3156ab.jpg": "/tic-tac-toe-for-ksu/static/media/lols_background.ee3156ab.jpg"
+    "main.css": "/tic-tac-toe/static/css/main.afd7172b.chunk.css",
+    "main.js": "/tic-tac-toe/static/js/main.8e2fe7b3.chunk.js",
+    "main.js.map": "/tic-tac-toe/static/js/main.8e2fe7b3.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.268a3c4b.js",
+    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.268a3c4b.js.map",
+    "static/js/2.8303dc45.chunk.js": "/tic-tac-toe/static/js/2.8303dc45.chunk.js",
+    "static/js/2.8303dc45.chunk.js.map": "/tic-tac-toe/static/js/2.8303dc45.chunk.js.map",
+    "index.html": "/tic-tac-toe/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/tic-tac-toe/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.8303dc45.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.8303dc45.chunk.js.LICENSE.txt",
+    "static/media/anton.39764d1b.jpg": "/tic-tac-toe/static/media/anton.39764d1b.jpg",
+    "static/media/ksu.c9a4db34.jpg": "/tic-tac-toe/static/media/ksu.c9a4db34.jpg",
+    "static/media/lols_background.ee3156ab.jpg": "/tic-tac-toe/static/media/lols_background.ee3156ab.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d83a8b2f.js",
-    "static/js/2.5217d960.chunk.js",
+    "static/js/runtime-main.268a3c4b.js",
+    "static/js/2.8303dc45.chunk.js",
     "static/css/main.afd7172b.chunk.css",
     "static/js/main.8e2fe7b3.chunk.js"
   ]
